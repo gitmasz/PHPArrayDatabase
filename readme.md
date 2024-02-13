@@ -1,5 +1,5 @@
 # PHP Array Database
-PHP functions to retrieve data from PHP associative array based on given hash in url parameter. Example project.
+PHP functions to retrieve data from PHP multidimensional associative array based on given hash in url parameter. Example project.
 
 # Project Preview
 
